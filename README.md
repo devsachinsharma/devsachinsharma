@@ -20,7 +20,7 @@ Hi, I'm Sachin Sharma, a Developer 🚀 from India, currently, I'm a Sophomore a
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning React and GraphQL; 
+- 🌱 I’m currently learning React and DevOps; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@_sachin09](https://twitter.com/_sachin09);
 
