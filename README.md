@@ -5,6 +5,9 @@
 <a href="https://www.facebook.com/profile.php?id=100008794507295">
   <img align="left" alt="Sachin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.linkedin.com/in/sachin-sharma-648b1b200">
+  <img align="left" alt="Sachin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=devsachinsharma.devsachinsharma)
 
